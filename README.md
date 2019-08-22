@@ -1,20 +1,19 @@
 # course_ML
 
 ## Datasets
-### titanic
+### pima indians diabetes
 
 |Variable	| Definition |	Key |
 |---------|------------|------|
-|survival	| Survival | 0 = No, 1 = Yes |
-|pclass | Ticket class | 1 = 1st, 2 = 2nd, 3 = 3rd |
-|sex | Sex | |	
-|Age | Age in years | |	
-|sibsp | # of siblings / spouses aboard the Titanic |	|
-|parch | # of parents / children aboard the Titanic |	|
-|ticket | Ticket number | |
-|fare | Passenger fare | |	
-|cabin | Cabin number | |	
-|embarked | Port of Embarkation | C = Cherbourg, Q = Queenstown, S = Southampton |
+|preg	| Number of times pregnant | 0,1,2,... |
+| plas | Plasma glucose concentration a 2 hours in an oral glucose tolerance test | 1 = 1st, 2 = 2nd, 3 = 3rd |
+| pres | Diastolic blood pressure | (mm Hg) |	
+| skin | Triceps skin fold thickness | (mm) |	
+| test | 2-Hour serum insulin | (mu U/ml)	|
+| mass | Body mass index | (weight in kg/(height in m)^2) |
+|pedi | Diabetes pedigree function | |
+|age | Age (years) | |
+|class | indicates if the person has been diagnosed with diabetes | diabetes (1) or not (0) |	
 
 ### heart disease
 
