@@ -19,18 +19,10 @@
 
 |Variable	| Definition |	Type |
 |---------|------------|------|
-|Sex | male or female | Nominal|
-|Age | Age of the patient| Continuous | 
-|Current Smoker | whether or not the patient is a current smoker| Nominal |
-|Cigs Per Day | the number of cigarettes that the person smoked on average in one day|continuous |
-|BP Meds | whether or not the patient was on blood pressure medication | Nominal | 
-|Prevalent Stroke | whether or not the patient had previously had a stroke | Nominal |
-|Prevalent Hyp | whether or not the patient was hypertensive | Nominal |
-|Diabetes | whether or not the patient had diabetes | Nominal |
-|Tot Chol | total cholesterol level | Continuous | 
-|Sys BP | systolic blood pressure | Continuous | 
-|Dia BP | diastolic blood pressure | Continuous |
-|BMI | Body Mass Index | Continuous |
-|Heart Rate | heart rate | Continuous |
-| Glucose | glucose level | Continuous | 
-| desired target | 10 year risk of coronary heart disease CHD  | binary: '1', means 'Yes', '0' means 'No' |
+|Sex | insurance contractor gender, female, male | Nominal|
+|bmi | Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9 | Continuous | 
+|children | Number of children covered by health insurance / Number of dependents| Nominal |
+|smoker | Whether or not the patient is a current smoker |continuous |
+|region | The beneficiary's residential area in the US, northeast, southeast, southwest, northwest | Nominal | 
+|charges | Individual medical costs billed by health insurance | Nominal |
+
