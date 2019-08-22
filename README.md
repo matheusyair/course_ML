@@ -17,12 +17,12 @@
 
 ### heart disease
 
-|Variable	| Definition |	Type |
+|Variable	| Definition |	Key |
 |---------|------------|------|
-|Sex | insurance contractor gender, female, male | Nominal|
-|bmi | Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9 | Continuous | 
-|children | Number of children covered by health insurance / Number of dependents| Nominal |
-|smoker | Whether or not the patient is a current smoker |continuous |
-|region | The beneficiary's residential area in the US, northeast, southeast, southwest, northwest | Nominal | 
-|charges | Individual medical costs billed by health insurance | Nominal |
+|Sex | insurance contractor gender | (female, male)|
+|bmi | Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight | Continuous | 
+|children | Number of children covered by health insurance / Number of dependents| 0,1,2,... |
+|smoker | Whether or not the patient is a current smoker | smoker (1) or not (0) |
+|region | The beneficiary's residential area in the US | northeast, southeast, southwest, northwest | 
+|charges | Individual medical costs billed by health insurance | Continuous |
 
