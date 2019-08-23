@@ -1,6 +1,22 @@
 # course_ML
 
 ## Datasets
+
+## Linear Regression
+
+### heart disease
+
+|Variable	| Definition |	Key |
+|---------|------------|------|
+|Sex | insurance contractor gender | (female, male)|
+|bmi | Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight | Continuous | 
+|children | Number of children covered by health insurance / Number of dependents| 0,1,2,... |
+|smoker | Whether or not the patient is a current smoker | smoker (1) or not (0) |
+|region | The beneficiary's residential area in the US | northeast, southeast, southwest, northwest | 
+|charges | Individual medical costs billed by health insurance | Continuous |
+
+## Logistic Regression
+
 ### pima indians diabetes
 
 |Variable	| Definition |	Key |
@@ -14,15 +30,4 @@
 |pedi | Diabetes pedigree function | |
 |age | Age (years) | |
 |class | indicates if the person has been diagnosed with diabetes | diabetes (1) or not (0) |	
-
-### heart disease
-
-|Variable	| Definition |	Key |
-|---------|------------|------|
-|Sex | insurance contractor gender | (female, male)|
-|bmi | Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight | Continuous | 
-|children | Number of children covered by health insurance / Number of dependents| 0,1,2,... |
-|smoker | Whether or not the patient is a current smoker | smoker (1) or not (0) |
-|region | The beneficiary's residential area in the US | northeast, southeast, southwest, northwest | 
-|charges | Individual medical costs billed by health insurance | Continuous |
 
