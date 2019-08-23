@@ -1,6 +1,4 @@
-# course_ML
-
-## Datasets
+# course_ML - Datasets
 
 ## Linear Regression
 
