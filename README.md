@@ -20,7 +20,7 @@
 |Variable	| Definition |	Key |
 |---------|------------|------|
 |preg	| Number of times pregnant | 0,1,2,... |
-| plas | Plasma glucose concentration a 2 hours in an oral glucose tolerance test | 1 = 1st, 2 = 2nd, 3 = 3rd |
+| plas | Plasma glucose concentration a 2 hours in an oral glucose tolerance test | |
 | pres | Diastolic blood pressure | (mm Hg) |	
 | skin | Triceps skin fold thickness | (mm) |	
 | test | 2-Hour serum insulin | (mu U/ml)	|
