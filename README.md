@@ -20,12 +20,12 @@
 |Variable	| Definition |	Key |
 |---------|------------|------|
 |preg	| Number of times pregnant | 0,1,2,... |
-| plas | Plasma glucose concentration a 2 hours in an oral glucose tolerance test | |
+| plas | Plasma glucose concentration a 2 hours in an oral glucose tolerance test | continuous |
 | pres | Diastolic blood pressure | (mm Hg) |	
 | skin | Triceps skin fold thickness | (mm) |	
 | test | 2-Hour serum insulin | (mu U/ml)	|
 | mass | Body mass index | (weight in kg/(height in m)^2) |
-|pedi | Diabetes pedigree function | |
-|age | Age (years) | |
+|pedi | Diabetes pedigree function | continuous |
+|age | Age (years) | 21,22,... |
 |class | indicates if the person has been diagnosed with diabetes | diabetes (1) or not (0) |	
 
